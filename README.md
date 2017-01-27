@@ -13,6 +13,7 @@
 > **Improvements needed**  
 [ ] Fix multi-round interaction.  
 [ ] Validate input.  
+[ ] Modularize and generally improve the structure of the app.  
 [ ] Display results history.  
 
 ### Step 2
